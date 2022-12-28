@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">أوجد الحل</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_tv_text_bottom">أوجد الحل</string>
+    <string name="regs_language_rb_male">ذكر</string>
+    <string name="regs_language_rb_female">أنثى</string>
+</resources>
