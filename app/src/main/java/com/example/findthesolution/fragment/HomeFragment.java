@@ -47,7 +47,7 @@ public class HomeFragment extends Fragment {
         //todo
         sharedPreference = PreferenceManager.getDefaultSharedPreferences(getActivity()) ;
 
-        mp = MediaPlayer.create(getActivity() , R.raw.ringtone) ;
+        mp = MediaPlayer.create(getActivity() , R.raw.sound) ;
         mp.setLooping(true);
         sound_player();
         //todo
